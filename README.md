@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-Prepositorio prueba Modulo 2 PrepCurse Henry
+Este proyecto es una prueba de como crear una repositorio y clonarlo desde githup a nuestra computadora
